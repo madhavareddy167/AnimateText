@@ -1,7 +1,8 @@
 # AnimateText: Transforming Text to Visual Expressions <img src="https://img.icons8.com/emoji/48/performing-arts.png" alt="Icon" width="24" height="24">
 
 <p align="center">
-  <img src="AnimateText_Banner.png" alt="AnimateText Banner" style="width:70%; height:auto;">
+ <img src="https://github.com/madhavareddy167/AnimateText/blob/main/AnimateText_Banner.png?raw=true" alt="AnimateText Banner" style="width:70%; height:auto;">
+
 </p>
 
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square)](https://www.python.org/)
